@@ -1,4 +1,4 @@
-Sitemap: https://acrylmaster.ru/sitemap.xml
+Sitemap: https://cabinet.orgalitpro.ru/sitemap.xml
 User-agent: *
 Allow: 
 Allow: 
