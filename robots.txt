@@ -1,0 +1,4 @@
+Sitemap: https://acrylmaster.ru/sitemap.xml
+User-agent: *
+Allow: 
+Allow: 
